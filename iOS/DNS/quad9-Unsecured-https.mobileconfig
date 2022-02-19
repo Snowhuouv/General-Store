@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>2620:fe::10</string>
+					<string>2620:fe::fe:10</string>
+					<string>9.9.9.10</string>
+					<string>149.112.112.10</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://dns10.quad9.net/dns-query</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures device to use Quad9 (Unsecured) Encrypted DNS over HTTPS</string>
+			<key>PayloadDisplayName</key>
+			<string>Quad9 (Unsecured) DNS over HTTPS</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.88ed7b58-dae0-4698-ae04-70d1081374be</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>7782a560-c4d0-4def-9576-c3d0ff78b8ba</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the Quad9 DNS to Big Sur and iOS 14 based systems</string>
+	<key>PayloadDisplayName</key>
+	<string>Quad9 (Unsecured) Encrypted DNS over HTTPS</string>
+	<key>PayloadIdentifier</key>
+	<string>com.notjakob.apple-dns.1e87b457-d57f-4c02-93af-3d722e5aa509</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>136befb5-1c6f-4f59-a1f3-c0c46ba7ef80</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

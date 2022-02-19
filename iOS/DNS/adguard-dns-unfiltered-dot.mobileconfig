@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>2a10:50c0::1:ff</string>
+					<string>2a10:50c0::2:ff</string>
+					<string>94.140.14.140</string>
+					<string>94.140.14.141</string>
+				</array>
+				<key>ServerName</key>
+				<string>dns-unfiltered.adguard.com</string>
+			</dict>
+			<key>Name</key>
+            <string>AdGuard DNS Non-filtering over TLS</string>
+			<key>PayloadDescription</key>
+			<string>Configures device to use AdGuard DNS Non-filtering over TLS.</string>
+			<key>PayloadDisplayName</key>
+			<string>AdGuard DNS Non-filtering</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.6b059bc0-9a1c-4e60-9db5-328ef7ca51f3</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>0bf941d8-7020-4b0d-bbf1-4b408ca7cb85</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds AdGuard DNS Non-filtering to Big Sur and iOS 14 or newer systems</string>
+	<key>PayloadDisplayName</key>
+	<string>AdGuard DNS Non-filtering</string>
+	<key>PayloadIdentifier</key>
+	<string>com.notjakob.apple-dns.52cd6e08-3424-4f89-ab53-c2beab0f0e89</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8968268b-e732-44b0-b461-9b887659ece2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

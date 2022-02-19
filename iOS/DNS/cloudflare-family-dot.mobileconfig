@@ -19,12 +19,10 @@
 				<key>ServerName</key>
 				<string>family.cloudflare-dns.com</string>
 			</dict>
-			<key>Name</key>
-            <string>Cloudflare DNS Family over TLS</string>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Cloudflare Encrypted DNS Family over TLS.</string>
+			<string>Configures device to use Cloudflare Encrypted DNS for Families over TLS.</string>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare Family DoT</string>
+			<string>Cloudflare Encrypted DNS for Families over TLS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.caea883c-4c0c-43e7-b795-37a27bd7649c</string>
 			<key>PayloadType</key>
@@ -38,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Cloudflare Family DNS to Big Sur and iOS 14 or newer systems</string>
+	<string>Adds the Cloudflare Encrypted DNS for Families over TLS to Big Sur and iOS 14 or newer systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Cloudflare Family DoT</string>
+	<string>Cloudflare Encrypted DNS for Families over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.notjakob.apple-dns.f0cdd7ba-8028-4d0d-9ecc-d77a96af5a9d</string>
 	<key>PayloadRemovalDisallowed</key>

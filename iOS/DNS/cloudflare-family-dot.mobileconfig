@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>2606:4700:4700::1113</string>
+					<string>2606:4700:4700::1003</string>
+					<string>1.1.1.3</string>
+					<string>1.0.0.3</string>
+				</array>
+				<key>ServerName</key>
+				<string>family.cloudflare-dns.com</string>
+			</dict>
+			<key>Name</key>
+            <string>Cloudflare DNS Family over TLS</string>
+			<key>PayloadDescription</key>
+			<string>Configures device to use Cloudflare Encrypted DNS Family over TLS.</string>
+			<key>PayloadDisplayName</key>
+			<string>Cloudflare Family DoT</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.caea883c-4c0c-43e7-b795-37a27bd7649c</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>c9cdcf85-f89e-4f96-9994-808b134f1dbd</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Adds the Cloudflare Family DNS to Big Sur and iOS 14 or newer systems</string>
+	<key>PayloadDisplayName</key>
+	<string>Cloudflare Family DoT</string>
+	<key>PayloadIdentifier</key>
+	<string>com.notjakob.apple-dns.f0cdd7ba-8028-4d0d-9ecc-d77a96af5a9d</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>160eab26-4bdb-4618-9270-00a2b36bf6b9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

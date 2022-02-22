@@ -63,3 +63,5 @@ rtp://233.15.200.104:5000
 rtp://233.15.200.109:5000
 #EXTINF:32, [9분할] 시청률 19~27위
 rtp://233.15.200.111:5000
+#EXTINF:33, [Test] AT-X
+https://sub2.neetball.net/live/neet.m3u8

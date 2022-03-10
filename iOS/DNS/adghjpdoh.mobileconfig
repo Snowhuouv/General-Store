@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerAddresses</key>
+<array>
+<string>152.69.201.38</string>
+</array>
+<key>ServerURL</key>
+<string>https://adguardjp.duckdns.org/dns-query</string>
+</dict>
+<key>PayloadDescription</key>
+<string>Configures device to use AdGuard Home JP: Encrypted DNS over HTTPS</string>
+<key>PayloadDisplayName</key>
+<string>AdGuard Home JP: DNS over HTTPS</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.dnsSettings.managed.48818a9f-9887-427b-bc44-3cd175e2406d</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>b20fad64-d09e-4758-a9bc-60bc1e340d3e</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>ProhibitDisablement</key>
+<false/>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Adds AdGuard Home JP DNS configurations to Big Sur and iOS 14 or newer systems</string>
+<key>PayloadDisplayName</key>
+<string>AdGuard Home JP: DoH</string>
+<key>PayloadIdentifier</key>
+<string>com.notjakob.apple-dns.9a828064-faac-42fe-ac7e-52c7cb58c786</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>76e0a80e-8b7e-4547-9dab-14416df160db</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>

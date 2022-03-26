@@ -11,7 +11,7 @@
 <string>HTTPS</string>
 <key>ServerAddresses</key>
 <array>
-<string>152.69.201.38</string>
+<string>140.83.51.68</string>
 </array>
 <key>ServerURL</key>
 <string>https://adguardjp.duckdns.org/dns-query</string>

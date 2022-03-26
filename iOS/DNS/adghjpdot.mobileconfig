@@ -11,7 +11,7 @@
 <string>TLS</string>
 <key>ServerAddresses</key>
 <array>
-<string>152.69.201.38</string>
+<string>140.83.51.68</string>
 </array>
 <key>ServerName</key>
 <string>adguardjp.duckdns.org</string>

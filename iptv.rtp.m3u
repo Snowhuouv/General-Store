@@ -1,4 +1,4 @@
-﻿#EXTM3U8
+﻿#EXTM3U
 x-tvg-url="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Undefined",EBS 1 (1080p)
 rtp://233.15.200.53:5000

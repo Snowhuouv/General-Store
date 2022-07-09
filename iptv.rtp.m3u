@@ -21,7 +21,7 @@ rtp://233.15.200.8:5000
 rtp://233.15.200.26:5000
 #EXTINF:-1 tvg-id="AndongMBCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="Undefined",안동 MBC (1080p)
 rtp://233.15.200.27:5000
-#EXTINF:-1 tvg-id="PohangMBCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="Undefined",안동 MBC (1080p)
+#EXTINF:-1 tvg-id="PohangMBCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="Undefined",포항 MBC (1080p)
 rtp://233.15.200.28:5000
 #EXTINF:-1, KBSN Sports
 rtp://233.15.200.244:5000

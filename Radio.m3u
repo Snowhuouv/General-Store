@@ -1,21 +1,17 @@
 #EXTM3U8
 #EXTINF:1, EBS FM 104.5
 http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-#EXTINF:2, CBS Standard FM
-http://aac.cbs.co.kr/cbs981/cbs981.stream/playlist.m3u8
-#EXTINF:3, CBS Music FM
-http://aac.cbs.co.kr/cbs939/cbs939.stream/playlist.m3u8
-#EXTINF:4, MBC FM4U
+#EXTINF:2, MBC FM4U
 http://serpent0.duckdns.org:8088/mbcfm.pls
-#EXTINF:5, MBC Standard FM
+#EXTINF:3, MBC Standard FM
 http://serpent0.duckdns.org:8088/mbcsfm.pls
-#EXTINF:6, SBS Power FM
+#EXTINF:4, SBS Power FM
 http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:7, SBS Love FM
+#EXTINF:5, SBS Love FM
 http://serpent0.duckdns.org:8088/sbs2fm.pls
-#EXTINF:8, KBS FM
+#EXTINF:6, KBS FM
 http://serpent0.duckdns.org:8088/kbsfm.pls
-#EXTINF:10, KBS 1 Radio
+#EXTINF:7, KBS 1 Radio
 http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:9, KBS Cool FM
+#EXTINF:8, KBS Cool FM
 http://serpent0.duckdns.org:8088/kbs2fm.pls

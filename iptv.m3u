@@ -1,20 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
-#EXTINF:-1, EBS FM 104.5
-http://ebsonairiosaod.ebs.co.kr/fmradiobandiaod/bandiappaac/playlist.m3u8
-#EXTINF:-1, MBC FM4U
-http://serpent0.duckdns.org:8088/mbcfm.pls
-#EXTINF:-1, MBC Standard FM
-http://serpent0.duckdns.org:8088/mbcsfm.pls
-#EXTINF:-1, SBS Power FM
-http://serpent0.duckdns.org:8088/sbsfm.pls
-#EXTINF:-1, SBS Love FM
-http://serpent0.duckdns.org:8088/sbs2fm.pls
-#EXTINF:-1, KBS FM
-http://serpent0.duckdns.org:8088/kbsfm.pls
-#EXTINF:-1, KBS 1 Radio
-http://serpent0.duckdns.org:8088/kbs1radio.pls
-#EXTINF:-1, KBS Cool FM
-http://serpent0.duckdns.org:8088/kbs2fm.pls
 #EXTINF:-1 tvg-id="Anibox.kr" tvg-logo="https://i.imgur.com/5SZfGmy.png" group-title="Animation",Anibox (1080p) [Not 24/7]
 https://allanf181.github.io/adaptive-streams/streams/kr/Anibox.m3u8
 #EXTINF:-1 tvg-id="AnimaxKorea.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax (1080p) [Not 24/7]
